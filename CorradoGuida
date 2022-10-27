@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1> Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#torta-di-mele">Recipe #1</a></li>
+        </ol>
+        
+        <h2 id="torta-di-mele">Torta di mele</h2>
+        
+        <ul>
+            <li>Time: 1.30h</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                    <td>Mele</td>
+                    <td>700g</td>
+                </tr>
+                <tr>
+                     <td>Farina 00</td>
+                      <td>250g</td>
+                </tr>
+                <tr>
+                     <td>Latte intero</td> 
+                     <td>150g</td>
+                </tr>
+                <tr>
+                     <td>Limoni</td>
+                      <td>1</td>
+                </tr>
+                <tr>
+                     <td>Cannella </td>
+                      <td>1/2 cucchiaino</td>
+                </tr>
+                <tr>
+                     <td>Zucchero </td>
+                      <td>200g</td>
+                </tr>
+                <tr>
+                     <td>Burro </td>
+                      <td>200g</td>
+                </tr>
+                <tr>
+                     <td>Uova </td>
+                      <td>2</td>
+                </tr>
+                <tr>
+                     <td>Lievito </td>
+                      <td>16g</td>
+                </tr>
+                <tr>
+                     <td>Sale fino </td>
+                      <td>1 pizzico</td>
+                </tr>
+                
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Per realizzare la torta di mele per prima cosa sciogliete il burro nel microonde o a bagnomaria, e tenetelo da parte. Grattugiate la scorza di limone  e spremetene il succo ottenendone circa 30 g, quindi tenete da parte sia la scorza che il succo. Dividete a metà le mele e levatene il torsolo.
+</p>
+<p><strong>Step 2:</strong> Sbucciate le mele, poi tagliatele in quattro parti  e riducetele a fettine tagliandole per il lato corto.
+</p>
+<p><strong>Step 3:</strong> Mettete le mele tagliate a fettine in una ciotola e irroratele con il succo del limone, mescolandole bene: questa operazione servirà a non farle annerire. Passate poi a setacciare la farina 00 con il lievito in polvere. Poi, in una ciotola capiente, versate le uova.
+</p>
+<p><strong>Step 4:</strong>
+
+
+
+        
+    <p><em>Source: <a href="?">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
